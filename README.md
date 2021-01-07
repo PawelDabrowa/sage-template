@@ -33,7 +33,7 @@ Install Sage using Composer from your WordPress themes directory (replace `your-
 
 ```shell
 # @ app/themes/ or wp-content/themes/
-$ composer create-project roots/sage your-theme-name
+$ composer create-project roots/sage sage-template
 ```
 
 To install the latest development version of Sage, add `dev-master` to the end of the command:
